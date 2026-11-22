@@ -1,0 +1,12 @@
+{
+  "name": "sahte-odeme-demo",
+  "version": "1.0.0",
+  "description": "Ödeme sistemi mantığını öğrenmek için sahte ödeme sağlayıcısı + mağaza demosu (bağımlılıksız Node.js)",
+  "main": "baslat.js",
+  "scripts": {
+    "start": "node baslat.js",
+    "test": "node test.js"
+  },
+  "engines": { "node": ">=20.12" },
+  "license": "MIT"
+}
